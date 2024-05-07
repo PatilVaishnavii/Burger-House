@@ -1,4 +1,4 @@
-### An elegant food ordering web application using Pure HTML ,CSS and JavaScript 
+### An elegant burger ordering web application using Pure HTML ,CSS and JavaScript 
 - - - -
 ## :rocket: Tech Stack used: 
 - HTML
@@ -10,5 +10,5 @@
 https://burger-house-website.netlify.app/
  
  
- ![https://burger-house-website.netlify.app/pp_](https://github.com/PatilVaishnavii/Project/assets/129088625/3f770213-1e15-4c75-a602-89e8fd4cf1c9)
+![burger-house-website netlify app_](https://github.com/PatilVaishnavii/Project/assets/129088625/98cd694a-ae7d-4c12-b1bd-ed8f48f45481)
 
